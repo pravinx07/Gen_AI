@@ -1,0 +1,25 @@
+.env
+node_modules
+
+# runtime logs
+*.log
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# package manager caches
+.npm/
+.cache/
+
+# build outputs
+dist/
+build/
+
+# editor settings
+.vscode/
+.idea/
+
+# temporary files
+*.tmp
+*.log
